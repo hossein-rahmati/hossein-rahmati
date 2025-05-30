@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋 I'm Hossein <br>AI specialist and CS student</h1>
+<h1 align="center">Hi 👋 I'm Hossein <br>Data Scientist and CS student</h1>
 
 ###
 
