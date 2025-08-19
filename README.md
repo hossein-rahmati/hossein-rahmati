@@ -1,6 +1,6 @@
 # Hi, I'm hossein
 
-An aspiring data scientist and computer science student passionate about creating impactful, data-driven solutions. <br>Currently working on data visualization and developing analytics dashboards.<br> Feel free to ask me about algorithms or anything related to data!
+An aspiring data scientist and computer science student passionate about creating impactful, data‑driven solutions. <br>Currently focused on data visualization, business analytics, and developing machine learning and deep learning models. <br>Feel free to ask me about algorithms, machine learning, deep learning, business analytics, visualization techniques, or turning raw data into actionable insights!
 
 
 ## 🌐 Socials:
