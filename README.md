@@ -2,7 +2,8 @@
 
 ###
 
-<p data-importer="text" align="left">I’m Hossein<br><br>I’m a Computer Science student and Python Developer with a strong foundation in research, data science, and AI, currently specializing in Backend Development with Django.<br><br>My journey started in academic research, where I worked as a Research Programmer building complex Python-based solutions. I then spent a year diving deep into AI and Data Science, which led to an industry role as a Data Scientist. These experiences shaped my understanding of data structures, algorithmic efficiency, and large-scale data processing.<br><br>Now, I’m channeling my Python expertise into designing and building robust, scalable backend systems. I’m focused on mastering Django, clean architecture, and backend best practices—building systems that are not only functional, but optimized for data-intensive applications.</p>
+<p data-importer="text" align="left">I’m Hossein<br><br>Backend Developer with a background in Data Science and Academic Research. I specialize in building robust backend architectures, scalable RESTful APIs, and efficient data processing pipelines.
+​Having worked as a Data Scientist and Research Programmer, I bring a analytical, problem-solving mindset to backend engineering—ensuring systems are not just functional, but clean, scalable, and performance-optimized.</p>
 
 ###
 
