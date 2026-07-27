@@ -90,7 +90,6 @@
 ###
 
 <div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/hossein-rahmati/hossein-rahmati/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ayu-mirage&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=hossein-rahmati&locale=en&mode=daily&theme=ayu-mirage&hide_border=true&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph"  />
   <img src="https://raw.githubusercontent.com/hossein-rahmati/hossein-rahmati/trophy-output/trophy.svg?theme=monokai&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph"  />
   <img src="https://raw.githubusercontent.com/hossein-rahmati/hossein-rahmati/activity-graph-output/activity-graph.svg?radius=16&theme=one-dark&area=true&order=5&hide_border=true&hide_title=false" height="200" alt="activity-graph graph"  />
