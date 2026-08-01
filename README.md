@@ -12,9 +12,6 @@ I’m Hossein<br>A Backend Developer with a background in Data Science and Acade
 ![](https://streak-stats.demolab.com/?user=hossein-rahmati&theme=one_dark_pro&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=hossein-rahmati&theme=one_dark_pro&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hossein-rahmati&theme=one_dark_pro&no-frame=false&no-bg=true&margin-w=4)
-
   ## 💰 You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://coffeebede.com/hosseinrahmati) 
 
