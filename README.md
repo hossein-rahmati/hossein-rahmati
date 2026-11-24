@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Hossein<br>A Backend Developer with a background in Data Science and Academic Research. I specialize in building robust Backend architectures, scalable RESTful APIs, and efficient data processing pipelines. ​Having worked as a Data Scientist and Research Programmer, I bring a analytical, problem-solving mindset to backend engineering—ensuring systems are not just functional, but clean, scalable, and performance-optimized.
+I’m Hossein<br>Computer Science undergraduate focusing on **Soft Computing**, **Metaheuristic Optimization**, and **Machine Learning**. I build optimization algorithms from scratch, analyze tabular datasets, and engineer scalable data pipelines.
 
 
 ## 🌐 Socials:
